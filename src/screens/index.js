@@ -1,0 +1,16 @@
+export { default as Home } from './Home';
+export { default as ProductDetail } from './ProductDetail';
+export { default as BuyCoins } from './BuyCoins';
+export { default as Login } from './Login';
+export { default as ElectronicMobile } from './ElectronicMobile';
+export { default as Howitwork } from './Howitwork';
+export { default as Membership } from './Membership';
+export { default as Winner } from './Winner/Winner';
+export { default as WinnerProfile } from './Winner/Profile';
+export { default as Aboutus } from './Aboutus';
+export { default as Contactus } from './Contactus';
+export { default as BidWin } from './BidWin/BidWin';
+export { default as Policy } from './Policy';
+export { default as Userlogin } from './Userlogin';
+export { default as RegisterUser } from './RegisterUser';
+export { default as MerchantLogin } from './MerchantLogin';

@@ -1,0 +1,31 @@
+#sidemenutb {
+  padding: 0px 21px;
+}
+.sidemenu .nav-pills .nav-link {
+  font-size: 13px;
+}
+.dropdown1menu {
+  min-height: auto;
+  max-height: 200px;
+  overflow: auto;
+}
+.sidemenu .nav-item {
+  width: 100%;
+}
+#myScrollspy {
+  background: #fff;
+  border-right: 1px solid #ddd;
+}
+ul.nav-pills {
+  position: sticky;
+  top: 10px;
+  z-index: 9999;
+}
+.padding_left {
+  padding-left: 31px;
+}
+.nav-navyblue {
+  color: #000080;
+  border-bottom: 1px solid #000080;
+  display: inline-block;
+}
